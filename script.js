@@ -5,10 +5,10 @@ img.src = "./Group1.png";
 
 // general settings
 let gamePlaying = false;
-const gravity = .35;
-const speed = 3.2;
+const gravity = .5;
+const speed = 7.2;
 const size = [51, 36];
-const jump = -8.5;
+const jump = -7.5;
 const cTenth = (canvas.width / 100);
 
 let index = 0,
