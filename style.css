@@ -22,3 +22,11 @@ h1 {
   padding: 12px 16px;
   background: #5EE270;
 }
+
+.title{
+  
+/* background: linear-gradient(135deg, #FDD819 0%, #E80505 100%);
+-webkit-background-clip: text;
+-webkit-text-fill-color: transparent; */
+color: #EF5D5D;
+}
