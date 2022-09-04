@@ -19,6 +19,6 @@ h1 {
 .score-container {
   display: flex;
   justify-content: space-between;
-  padding: 8px 6px;
+  padding: 12px 10px;
   background: #5EE270;
 }
